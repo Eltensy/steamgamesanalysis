@@ -3,7 +3,7 @@
 Цей pet-проєкт створений для практики **Data Analysis** з використанням:
 - `pandas` для підготовки даних
 - `Power BI` для візуалізації
-- `Kaggle Dataset`: [EDA-Steam]([https://www.kaggle.com/code/cloudy17/eda-steam/input](https://www.kaggle.com/code/cloudy17/eda-steam/input))
+- `Kaggle Dataset`: [EDA-Steam](https://www.kaggle.com/code/cloudy17/eda-steam/input)
 
 ---
 
