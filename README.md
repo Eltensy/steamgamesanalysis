@@ -6,8 +6,8 @@
 - `Kaggle Dataset`: [EDA-Steam](https://www.kaggle.com/code/cloudy17/eda-steam/input)
 
 ---
-
 ## 📁 Структура проекту
+```
 📂 input/
 ├── 📊 steam.csv # Основний масив даних
 📂 output/
@@ -19,6 +19,7 @@
 └ steam.pbix # Файл проекту Power BI
 └ main.ipynb # Python (pandas) код для Jupyter Notebook
 └ README.md
+```
 
 ## 📊 Візуалізації в Power BI
 
